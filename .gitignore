@@ -1,0 +1,14 @@
+.gradle
+.idea
+.out
+.attach_pid*
+
+.settings/
+build
+bin
+out
+logs
+.project
+.classpath
+*.iml
+*.csv
